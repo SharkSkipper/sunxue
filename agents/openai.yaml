@@ -1,0 +1,4 @@
+interface:
+  display_name: "孙学 · sunxue"
+  short_description: "完整访谈内容知识库：解释AI协作、机会、学习、自由与创造，附原片索引"
+  default_prompt: "请用 $sunxue 解释这场访谈的主要观点，区分访谈内容与编辑归纳，并提供相关原片时间。"
